@@ -1,0 +1,906 @@
+[
+  {
+    "application_id": "APP-1266",
+    "discipline": "管理科学",
+    "predicted_funding_probability": 0.93551,
+    "ai_recommendation": "建议资助",
+    "true_label": 1,
+    "top_positive": [
+      {
+        "term": "novelty_score",
+        "value": "98.71",
+        "contribution": 0.937806,
+        "abs_contribution": 0.937806
+      },
+      {
+        "term": "project_risk",
+        "value": "6.95",
+        "contribution": 0.76926,
+        "abs_contribution": 0.76926
+      },
+      {
+        "term": "novelty_score & frontier_score",
+        "value": "",
+        "contribution": 0.392048,
+        "abs_contribution": 0.392048
+      },
+      {
+        "term": "frontier_score",
+        "value": "79.14",
+        "contribution": 0.310113,
+        "abs_contribution": 0.310113
+      },
+      {
+        "term": "methodology_score",
+        "value": "80.15",
+        "contribution": 0.274755,
+        "abs_contribution": 0.274755
+      },
+      {
+        "term": "interdisciplinarity",
+        "value": "71.48",
+        "contribution": 0.249918,
+        "abs_contribution": 0.249918
+      },
+      {
+        "term": "novelty_score & data_availability",
+        "value": "",
+        "contribution": 0.236764,
+        "abs_contribution": 0.236764
+      },
+      {
+        "term": "expected_impact",
+        "value": "90.83",
+        "contribution": 0.226675,
+        "abs_contribution": 0.226675
+      }
+    ],
+    "top_negative": [
+      {
+        "term": "team_size",
+        "value": "2.0",
+        "contribution": -0.329318,
+        "abs_contribution": 0.329318
+      },
+      {
+        "term": "collaboration_strength",
+        "value": "40.97",
+        "contribution": -0.212954,
+        "abs_contribution": 0.212954
+      },
+      {
+        "term": "data_availability",
+        "value": "61.33",
+        "contribution": -0.065109,
+        "abs_contribution": 0.065109
+      },
+      {
+        "term": "discipline",
+        "value": "管理科学",
+        "contribution": -0.053704,
+        "abs_contribution": 0.053704
+      },
+      {
+        "term": "platform_support",
+        "value": "60.18",
+        "contribution": -0.037303,
+        "abs_contribution": 0.037303
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": -0.021336,
+        "abs_contribution": 0.021336
+      }
+    ],
+    "all_terms": [
+      {
+        "term": "novelty_score",
+        "value": "98.71",
+        "contribution": 0.937806,
+        "abs_contribution": 0.937806
+      },
+      {
+        "term": "project_risk",
+        "value": "6.95",
+        "contribution": 0.76926,
+        "abs_contribution": 0.76926
+      },
+      {
+        "term": "novelty_score & frontier_score",
+        "value": "",
+        "contribution": 0.392048,
+        "abs_contribution": 0.392048
+      },
+      {
+        "term": "team_size",
+        "value": "2.0",
+        "contribution": -0.329318,
+        "abs_contribution": 0.329318
+      },
+      {
+        "term": "frontier_score",
+        "value": "79.14",
+        "contribution": 0.310113,
+        "abs_contribution": 0.310113
+      },
+      {
+        "term": "methodology_score",
+        "value": "80.15",
+        "contribution": 0.274755,
+        "abs_contribution": 0.274755
+      },
+      {
+        "term": "interdisciplinarity",
+        "value": "71.48",
+        "contribution": 0.249918,
+        "abs_contribution": 0.249918
+      },
+      {
+        "term": "novelty_score & data_availability",
+        "value": "",
+        "contribution": 0.236764,
+        "abs_contribution": 0.236764
+      },
+      {
+        "term": "expected_impact",
+        "value": "90.83",
+        "contribution": 0.226675,
+        "abs_contribution": 0.226675
+      },
+      {
+        "term": "collaboration_strength",
+        "value": "40.97",
+        "contribution": -0.212954,
+        "abs_contribution": 0.212954
+      },
+      {
+        "term": "prior_grants",
+        "value": "3.0",
+        "contribution": 0.200553,
+        "abs_contribution": 0.200553
+      },
+      {
+        "term": "institution_tier",
+        "value": "双一流/国家级平台",
+        "contribution": 0.166666,
+        "abs_contribution": 0.166666
+      },
+      {
+        "term": "feasibility_score",
+        "value": "76.59",
+        "contribution": 0.163252,
+        "abs_contribution": 0.163252
+      },
+      {
+        "term": "expected_impact & collaboration_strength",
+        "value": "",
+        "contribution": 0.15476,
+        "abs_contribution": 0.15476
+      },
+      {
+        "term": "age_group",
+        "value": "中青年",
+        "contribution": 0.117502,
+        "abs_contribution": 0.117502
+      },
+      {
+        "term": "budget_reasonableness",
+        "value": "87.65",
+        "contribution": 0.086591,
+        "abs_contribution": 0.086591
+      },
+      {
+        "term": "ethics_compliance",
+        "value": "75.56",
+        "contribution": 0.083292,
+        "abs_contribution": 0.083292
+      },
+      {
+        "term": "h_index",
+        "value": "19.0",
+        "contribution": 0.076162,
+        "abs_contribution": 0.076162
+      },
+      {
+        "term": "research_years",
+        "value": "17.0",
+        "contribution": 0.067477,
+        "abs_contribution": 0.067477
+      },
+      {
+        "term": "data_availability",
+        "value": "61.33",
+        "contribution": -0.065109,
+        "abs_contribution": 0.065109
+      }
+    ]
+  },
+  {
+    "application_id": "APP-1342",
+    "discipline": "管理科学",
+    "predicted_funding_probability": 0.00457,
+    "ai_recommendation": "建议不资助",
+    "true_label": 0,
+    "top_positive": [
+      {
+        "term": "frontier_score & interdisciplinarity",
+        "value": "",
+        "contribution": 0.928147,
+        "abs_contribution": 0.928147
+      },
+      {
+        "term": "project_risk",
+        "value": "46.08",
+        "contribution": 0.170034,
+        "abs_contribution": 0.170034
+      },
+      {
+        "term": "feasibility_score",
+        "value": "76.4",
+        "contribution": 0.151629,
+        "abs_contribution": 0.151629
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": 0.097397,
+        "abs_contribution": 0.097397
+      },
+      {
+        "term": "budget_reasonableness",
+        "value": "87.87",
+        "contribution": 0.086591,
+        "abs_contribution": 0.086591
+      },
+      {
+        "term": "citations_5y",
+        "value": "309.0",
+        "contribution": 0.053144,
+        "abs_contribution": 0.053144
+      },
+      {
+        "term": "overseas_experience",
+        "value": "无",
+        "contribution": 0.028306,
+        "abs_contribution": 0.028306
+      },
+      {
+        "term": "citations_5y & ethics_compliance",
+        "value": "",
+        "contribution": 0.017574,
+        "abs_contribution": 0.017574
+      }
+    ],
+    "top_negative": [
+      {
+        "term": "frontier_score",
+        "value": "41.81",
+        "contribution": -1.610534,
+        "abs_contribution": 1.610534
+      },
+      {
+        "term": "methodology_score",
+        "value": "42.76",
+        "contribution": -1.017926,
+        "abs_contribution": 1.017926
+      },
+      {
+        "term": "interdisciplinarity",
+        "value": "16.43",
+        "contribution": -0.797784,
+        "abs_contribution": 0.797784
+      },
+      {
+        "term": "platform_support",
+        "value": "14.49",
+        "contribution": -0.396068,
+        "abs_contribution": 0.396068
+      },
+      {
+        "term": "novelty_score",
+        "value": "61.27",
+        "contribution": -0.394011,
+        "abs_contribution": 0.394011
+      },
+      {
+        "term": "expected_impact",
+        "value": "53.1",
+        "contribution": -0.292491,
+        "abs_contribution": 0.292491
+      },
+      {
+        "term": "h_index",
+        "value": "5.0",
+        "contribution": -0.175591,
+        "abs_contribution": 0.175591
+      },
+      {
+        "term": "data_availability",
+        "value": "54.58",
+        "contribution": -0.157704,
+        "abs_contribution": 0.157704
+      }
+    ],
+    "all_terms": [
+      {
+        "term": "frontier_score",
+        "value": "41.81",
+        "contribution": -1.610534,
+        "abs_contribution": 1.610534
+      },
+      {
+        "term": "methodology_score",
+        "value": "42.76",
+        "contribution": -1.017926,
+        "abs_contribution": 1.017926
+      },
+      {
+        "term": "frontier_score & interdisciplinarity",
+        "value": "",
+        "contribution": 0.928147,
+        "abs_contribution": 0.928147
+      },
+      {
+        "term": "interdisciplinarity",
+        "value": "16.43",
+        "contribution": -0.797784,
+        "abs_contribution": 0.797784
+      },
+      {
+        "term": "platform_support",
+        "value": "14.49",
+        "contribution": -0.396068,
+        "abs_contribution": 0.396068
+      },
+      {
+        "term": "novelty_score",
+        "value": "61.27",
+        "contribution": -0.394011,
+        "abs_contribution": 0.394011
+      },
+      {
+        "term": "expected_impact",
+        "value": "53.1",
+        "contribution": -0.292491,
+        "abs_contribution": 0.292491
+      },
+      {
+        "term": "h_index",
+        "value": "5.0",
+        "contribution": -0.175591,
+        "abs_contribution": 0.175591
+      },
+      {
+        "term": "project_risk",
+        "value": "46.08",
+        "contribution": 0.170034,
+        "abs_contribution": 0.170034
+      },
+      {
+        "term": "data_availability",
+        "value": "54.58",
+        "contribution": -0.157704,
+        "abs_contribution": 0.157704
+      },
+      {
+        "term": "feasibility_score",
+        "value": "76.4",
+        "contribution": 0.151629,
+        "abs_contribution": 0.151629
+      },
+      {
+        "term": "prior_grants",
+        "value": "0.0",
+        "contribution": -0.110763,
+        "abs_contribution": 0.110763
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": 0.097397,
+        "abs_contribution": 0.097397
+      },
+      {
+        "term": "expected_impact & collaboration_strength",
+        "value": "",
+        "contribution": -0.096314,
+        "abs_contribution": 0.096314
+      },
+      {
+        "term": "institution_tier",
+        "value": "普通高校/机构",
+        "contribution": -0.095767,
+        "abs_contribution": 0.095767
+      },
+      {
+        "term": "data_availability & interdisciplinarity",
+        "value": "",
+        "contribution": -0.090808,
+        "abs_contribution": 0.090808
+      },
+      {
+        "term": "age_group",
+        "value": "青年",
+        "contribution": -0.088948,
+        "abs_contribution": 0.088948
+      },
+      {
+        "term": "budget_reasonableness",
+        "value": "87.87",
+        "contribution": 0.086591,
+        "abs_contribution": 0.086591
+      },
+      {
+        "term": "collaboration_strength",
+        "value": "61.66",
+        "contribution": -0.056854,
+        "abs_contribution": 0.056854
+      },
+      {
+        "term": "discipline",
+        "value": "管理科学",
+        "contribution": -0.053704,
+        "abs_contribution": 0.053704
+      }
+    ]
+  },
+  {
+    "application_id": "APP-1118",
+    "discipline": "管理科学",
+    "predicted_funding_probability": 0.50066,
+    "ai_recommendation": "建议资助",
+    "true_label": 1,
+    "top_positive": [
+      {
+        "term": "novelty_score",
+        "value": "84.95",
+        "contribution": 0.493511,
+        "abs_contribution": 0.493511
+      },
+      {
+        "term": "novelty_score & data_availability",
+        "value": "",
+        "contribution": 0.217808,
+        "abs_contribution": 0.217808
+      },
+      {
+        "term": "expected_impact",
+        "value": "74.05",
+        "contribution": 0.204338,
+        "abs_contribution": 0.204338
+      },
+      {
+        "term": "prior_grants",
+        "value": "3.0",
+        "contribution": 0.200553,
+        "abs_contribution": 0.200553
+      },
+      {
+        "term": "platform_support",
+        "value": "74.4",
+        "contribution": 0.182254,
+        "abs_contribution": 0.182254
+      },
+      {
+        "term": "institution_tier",
+        "value": "双一流/国家级平台",
+        "contribution": 0.166666,
+        "abs_contribution": 0.166666
+      },
+      {
+        "term": "frontier_score",
+        "value": "73.8",
+        "contribution": 0.158449,
+        "abs_contribution": 0.158449
+      },
+      {
+        "term": "budget_reasonableness",
+        "value": "84.15",
+        "contribution": 0.116834,
+        "abs_contribution": 0.116834
+      }
+    ],
+    "top_negative": [
+      {
+        "term": "interdisciplinarity",
+        "value": "40.86",
+        "contribution": -0.256137,
+        "abs_contribution": 0.256137
+      },
+      {
+        "term": "data_availability",
+        "value": "49.43",
+        "contribution": -0.113614,
+        "abs_contribution": 0.113614
+      },
+      {
+        "term": "research_years",
+        "value": "29.0",
+        "contribution": -0.108549,
+        "abs_contribution": 0.108549
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": -0.082471,
+        "abs_contribution": 0.082471
+      },
+      {
+        "term": "age_group",
+        "value": "资深",
+        "contribution": -0.070856,
+        "abs_contribution": 0.070856
+      },
+      {
+        "term": "overseas_experience",
+        "value": "长期经历",
+        "contribution": -0.066033,
+        "abs_contribution": 0.066033
+      },
+      {
+        "term": "discipline",
+        "value": "管理科学",
+        "contribution": -0.053704,
+        "abs_contribution": 0.053704
+      },
+      {
+        "term": "methodology_score",
+        "value": "64.12",
+        "contribution": -0.029269,
+        "abs_contribution": 0.029269
+      }
+    ],
+    "all_terms": [
+      {
+        "term": "novelty_score",
+        "value": "84.95",
+        "contribution": 0.493511,
+        "abs_contribution": 0.493511
+      },
+      {
+        "term": "interdisciplinarity",
+        "value": "40.86",
+        "contribution": -0.256137,
+        "abs_contribution": 0.256137
+      },
+      {
+        "term": "novelty_score & data_availability",
+        "value": "",
+        "contribution": 0.217808,
+        "abs_contribution": 0.217808
+      },
+      {
+        "term": "expected_impact",
+        "value": "74.05",
+        "contribution": 0.204338,
+        "abs_contribution": 0.204338
+      },
+      {
+        "term": "prior_grants",
+        "value": "3.0",
+        "contribution": 0.200553,
+        "abs_contribution": 0.200553
+      },
+      {
+        "term": "platform_support",
+        "value": "74.4",
+        "contribution": 0.182254,
+        "abs_contribution": 0.182254
+      },
+      {
+        "term": "institution_tier",
+        "value": "双一流/国家级平台",
+        "contribution": 0.166666,
+        "abs_contribution": 0.166666
+      },
+      {
+        "term": "frontier_score",
+        "value": "73.8",
+        "contribution": 0.158449,
+        "abs_contribution": 0.158449
+      },
+      {
+        "term": "budget_reasonableness",
+        "value": "84.15",
+        "contribution": 0.116834,
+        "abs_contribution": 0.116834
+      },
+      {
+        "term": "data_availability",
+        "value": "49.43",
+        "contribution": -0.113614,
+        "abs_contribution": 0.113614
+      },
+      {
+        "term": "project_risk",
+        "value": "49.6",
+        "contribution": 0.108912,
+        "abs_contribution": 0.108912
+      },
+      {
+        "term": "research_years",
+        "value": "29.0",
+        "contribution": -0.108549,
+        "abs_contribution": 0.108549
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": -0.082471,
+        "abs_contribution": 0.082471
+      },
+      {
+        "term": "h_index",
+        "value": "22.0",
+        "contribution": 0.07204,
+        "abs_contribution": 0.07204
+      },
+      {
+        "term": "age_group",
+        "value": "资深",
+        "contribution": -0.070856,
+        "abs_contribution": 0.070856
+      },
+      {
+        "term": "papers_5y",
+        "value": "11.0",
+        "contribution": 0.06818,
+        "abs_contribution": 0.06818
+      },
+      {
+        "term": "overseas_experience",
+        "value": "长期经历",
+        "contribution": -0.066033,
+        "abs_contribution": 0.066033
+      },
+      {
+        "term": "expected_impact & collaboration_strength",
+        "value": "",
+        "contribution": 0.059469,
+        "abs_contribution": 0.059469
+      },
+      {
+        "term": "novelty_score & frontier_score",
+        "value": "",
+        "contribution": 0.053958,
+        "abs_contribution": 0.053958
+      },
+      {
+        "term": "discipline",
+        "value": "管理科学",
+        "contribution": -0.053704,
+        "abs_contribution": 0.053704
+      }
+    ]
+  },
+  {
+    "application_id": "APP-0004",
+    "discipline": "管理科学",
+    "predicted_funding_probability": 0.18511,
+    "ai_recommendation": "建议不资助",
+    "true_label": 0,
+    "top_positive": [
+      {
+        "term": "novelty_score",
+        "value": "87.52",
+        "contribution": 0.680667,
+        "abs_contribution": 0.680667
+      },
+      {
+        "term": "feasibility_score",
+        "value": "88.26",
+        "contribution": 0.415471,
+        "abs_contribution": 0.415471
+      },
+      {
+        "term": "expected_impact",
+        "value": "81.47",
+        "contribution": 0.218644,
+        "abs_contribution": 0.218644
+      },
+      {
+        "term": "novelty_score & data_availability",
+        "value": "",
+        "contribution": 0.169247,
+        "abs_contribution": 0.169247
+      },
+      {
+        "term": "platform_support",
+        "value": "73.28",
+        "contribution": 0.162587,
+        "abs_contribution": 0.162587
+      },
+      {
+        "term": "age_group",
+        "value": "中青年",
+        "contribution": 0.117502,
+        "abs_contribution": 0.117502
+      },
+      {
+        "term": "feasibility_score & interdisciplinarity",
+        "value": "",
+        "contribution": 0.076961,
+        "abs_contribution": 0.076961
+      },
+      {
+        "term": "research_years",
+        "value": "9.0",
+        "contribution": 0.067612,
+        "abs_contribution": 0.067612
+      }
+    ],
+    "top_negative": [
+      {
+        "term": "project_risk",
+        "value": "100.0",
+        "contribution": -0.575129,
+        "abs_contribution": 0.575129
+      },
+      {
+        "term": "frontier_score",
+        "value": "44.94",
+        "contribution": -0.317878,
+        "abs_contribution": 0.317878
+      },
+      {
+        "term": "citations_5y",
+        "value": "55.0",
+        "contribution": -0.22358,
+        "abs_contribution": 0.22358
+      },
+      {
+        "term": "data_availability",
+        "value": "59.44",
+        "contribution": -0.141408,
+        "abs_contribution": 0.141408
+      },
+      {
+        "term": "frontier_score & interdisciplinarity",
+        "value": "",
+        "contribution": -0.130888,
+        "abs_contribution": 0.130888
+      },
+      {
+        "term": "citations_5y & ethics_compliance",
+        "value": "",
+        "contribution": -0.108397,
+        "abs_contribution": 0.108397
+      },
+      {
+        "term": "institution_tier",
+        "value": "普通高校/机构",
+        "contribution": -0.095767,
+        "abs_contribution": 0.095767
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": -0.09419,
+        "abs_contribution": 0.09419
+      }
+    ],
+    "all_terms": [
+      {
+        "term": "novelty_score",
+        "value": "87.52",
+        "contribution": 0.680667,
+        "abs_contribution": 0.680667
+      },
+      {
+        "term": "project_risk",
+        "value": "100.0",
+        "contribution": -0.575129,
+        "abs_contribution": 0.575129
+      },
+      {
+        "term": "feasibility_score",
+        "value": "88.26",
+        "contribution": 0.415471,
+        "abs_contribution": 0.415471
+      },
+      {
+        "term": "frontier_score",
+        "value": "44.94",
+        "contribution": -0.317878,
+        "abs_contribution": 0.317878
+      },
+      {
+        "term": "citations_5y",
+        "value": "55.0",
+        "contribution": -0.22358,
+        "abs_contribution": 0.22358
+      },
+      {
+        "term": "expected_impact",
+        "value": "81.47",
+        "contribution": 0.218644,
+        "abs_contribution": 0.218644
+      },
+      {
+        "term": "novelty_score & data_availability",
+        "value": "",
+        "contribution": 0.169247,
+        "abs_contribution": 0.169247
+      },
+      {
+        "term": "platform_support",
+        "value": "73.28",
+        "contribution": 0.162587,
+        "abs_contribution": 0.162587
+      },
+      {
+        "term": "data_availability",
+        "value": "59.44",
+        "contribution": -0.141408,
+        "abs_contribution": 0.141408
+      },
+      {
+        "term": "frontier_score & interdisciplinarity",
+        "value": "",
+        "contribution": -0.130888,
+        "abs_contribution": 0.130888
+      },
+      {
+        "term": "age_group",
+        "value": "中青年",
+        "contribution": 0.117502,
+        "abs_contribution": 0.117502
+      },
+      {
+        "term": "citations_5y & ethics_compliance",
+        "value": "",
+        "contribution": -0.108397,
+        "abs_contribution": 0.108397
+      },
+      {
+        "term": "institution_tier",
+        "value": "普通高校/机构",
+        "contribution": -0.095767,
+        "abs_contribution": 0.095767
+      },
+      {
+        "term": "prior_grants & data_availability",
+        "value": "",
+        "contribution": -0.09419,
+        "abs_contribution": 0.09419
+      },
+      {
+        "term": "collaboration_strength",
+        "value": "58.93",
+        "contribution": -0.08787,
+        "abs_contribution": 0.08787
+      },
+      {
+        "term": "novelty_score & frontier_score",
+        "value": "",
+        "contribution": -0.080419,
+        "abs_contribution": 0.080419
+      },
+      {
+        "term": "feasibility_score & interdisciplinarity",
+        "value": "",
+        "contribution": 0.076961,
+        "abs_contribution": 0.076961
+      },
+      {
+        "term": "prior_grants",
+        "value": "1.0",
+        "contribution": -0.074528,
+        "abs_contribution": 0.074528
+      },
+      {
+        "term": "budget_reasonableness",
+        "value": "64.14",
+        "contribution": -0.07389,
+        "abs_contribution": 0.07389
+      },
+      {
+        "term": "research_years",
+        "value": "9.0",
+        "contribution": 0.067612,
+        "abs_contribution": 0.067612
+      }
+    ]
+  }
+]

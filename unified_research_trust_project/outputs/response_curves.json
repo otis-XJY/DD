@@ -1,0 +1,1496 @@
+{
+  "novelty_score": {
+    "feature_label_zh": "创新性评分",
+    "kind": "numeric",
+    "points": [
+      {
+        "x": 50.7445,
+        "funding_probability": 0.17902
+      },
+      {
+        "x": 51.4797,
+        "funding_probability": 0.17652
+      },
+      {
+        "x": 52.2149,
+        "funding_probability": 0.17428
+      },
+      {
+        "x": 52.9501,
+        "funding_probability": 0.17442
+      },
+      {
+        "x": 53.6853,
+        "funding_probability": 0.17324
+      },
+      {
+        "x": 54.4205,
+        "funding_probability": 0.17409
+      },
+      {
+        "x": 55.1557,
+        "funding_probability": 0.17633
+      },
+      {
+        "x": 55.8909,
+        "funding_probability": 0.17968
+      },
+      {
+        "x": 56.6261,
+        "funding_probability": 0.18143
+      },
+      {
+        "x": 57.3613,
+        "funding_probability": 0.18442
+      },
+      {
+        "x": 58.0964,
+        "funding_probability": 0.18514
+      },
+      {
+        "x": 58.8316,
+        "funding_probability": 0.18671
+      },
+      {
+        "x": 59.5668,
+        "funding_probability": 0.1876
+      },
+      {
+        "x": 60.302,
+        "funding_probability": 0.18784
+      },
+      {
+        "x": 61.0372,
+        "funding_probability": 0.18928
+      },
+      {
+        "x": 61.7724,
+        "funding_probability": 0.18975
+      },
+      {
+        "x": 62.5076,
+        "funding_probability": 0.18996
+      },
+      {
+        "x": 63.2428,
+        "funding_probability": 0.19119
+      },
+      {
+        "x": 63.978,
+        "funding_probability": 0.19288
+      },
+      {
+        "x": 64.7132,
+        "funding_probability": 0.19537
+      },
+      {
+        "x": 65.4484,
+        "funding_probability": 0.19706
+      },
+      {
+        "x": 66.1836,
+        "funding_probability": 0.20002
+      },
+      {
+        "x": 66.9188,
+        "funding_probability": 0.20581
+      },
+      {
+        "x": 67.654,
+        "funding_probability": 0.21829
+      },
+      {
+        "x": 68.3892,
+        "funding_probability": 0.22422
+      },
+      {
+        "x": 69.1244,
+        "funding_probability": 0.22906
+      },
+      {
+        "x": 69.8596,
+        "funding_probability": 0.23538
+      },
+      {
+        "x": 70.5948,
+        "funding_probability": 0.24191
+      },
+      {
+        "x": 71.33,
+        "funding_probability": 0.24959
+      },
+      {
+        "x": 72.0652,
+        "funding_probability": 0.25613
+      },
+      {
+        "x": 72.8003,
+        "funding_probability": 0.26293
+      },
+      {
+        "x": 73.5355,
+        "funding_probability": 0.27054
+      },
+      {
+        "x": 74.2707,
+        "funding_probability": 0.27801
+      },
+      {
+        "x": 75.0059,
+        "funding_probability": 0.28119
+      },
+      {
+        "x": 75.7411,
+        "funding_probability": 0.28532
+      },
+      {
+        "x": 76.4763,
+        "funding_probability": 0.28728
+      },
+      {
+        "x": 77.2115,
+        "funding_probability": 0.29221
+      },
+      {
+        "x": 77.9467,
+        "funding_probability": 0.29353
+      },
+      {
+        "x": 78.6819,
+        "funding_probability": 0.29774
+      },
+      {
+        "x": 79.4171,
+        "funding_probability": 0.30334
+      },
+      {
+        "x": 80.1523,
+        "funding_probability": 0.30809
+      },
+      {
+        "x": 80.8875,
+        "funding_probability": 0.31277
+      },
+      {
+        "x": 81.6227,
+        "funding_probability": 0.31854
+      },
+      {
+        "x": 82.3579,
+        "funding_probability": 0.32337
+      },
+      {
+        "x": 83.0931,
+        "funding_probability": 0.39987
+      },
+      {
+        "x": 83.8283,
+        "funding_probability": 0.41119
+      },
+      {
+        "x": 84.5635,
+        "funding_probability": 0.41622
+      },
+      {
+        "x": 85.2987,
+        "funding_probability": 0.42939
+      },
+      {
+        "x": 86.0339,
+        "funding_probability": 0.46034
+      },
+      {
+        "x": 86.7691,
+        "funding_probability": 0.467
+      },
+      {
+        "x": 87.5042,
+        "funding_probability": 0.47021
+      },
+      {
+        "x": 88.2394,
+        "funding_probability": 0.47465
+      },
+      {
+        "x": 88.9746,
+        "funding_probability": 0.48368
+      },
+      {
+        "x": 89.7098,
+        "funding_probability": 0.48803
+      },
+      {
+        "x": 90.445,
+        "funding_probability": 0.47218
+      },
+      {
+        "x": 91.1802,
+        "funding_probability": 0.48151
+      },
+      {
+        "x": 91.9154,
+        "funding_probability": 0.48151
+      },
+      {
+        "x": 92.6506,
+        "funding_probability": 0.48382
+      },
+      {
+        "x": 93.3858,
+        "funding_probability": 0.48382
+      },
+      {
+        "x": 94.121,
+        "funding_probability": 0.49129
+      }
+    ]
+  },
+  "feasibility_score": {
+    "feature_label_zh": "可行性评分",
+    "kind": "numeric",
+    "points": [
+      {
+        "x": 46.387,
+        "funding_probability": 0.16593
+      },
+      {
+        "x": 47.1938,
+        "funding_probability": 0.17176
+      },
+      {
+        "x": 48.0006,
+        "funding_probability": 0.17176
+      },
+      {
+        "x": 48.8073,
+        "funding_probability": 0.17518
+      },
+      {
+        "x": 49.6141,
+        "funding_probability": 0.18021
+      },
+      {
+        "x": 50.4209,
+        "funding_probability": 0.18021
+      },
+      {
+        "x": 51.2277,
+        "funding_probability": 0.18357
+      },
+      {
+        "x": 52.0345,
+        "funding_probability": 0.18568
+      },
+      {
+        "x": 52.8412,
+        "funding_probability": 0.18665
+      },
+      {
+        "x": 53.648,
+        "funding_probability": 0.19001
+      },
+      {
+        "x": 54.4548,
+        "funding_probability": 0.19207
+      },
+      {
+        "x": 55.2616,
+        "funding_probability": 0.19346
+      },
+      {
+        "x": 56.0684,
+        "funding_probability": 0.19614
+      },
+      {
+        "x": 56.8751,
+        "funding_probability": 0.20047
+      },
+      {
+        "x": 57.6819,
+        "funding_probability": 0.20357
+      },
+      {
+        "x": 58.4887,
+        "funding_probability": 0.20873
+      },
+      {
+        "x": 59.2955,
+        "funding_probability": 0.21067
+      },
+      {
+        "x": 60.1023,
+        "funding_probability": 0.21256
+      },
+      {
+        "x": 60.909,
+        "funding_probability": 0.21428
+      },
+      {
+        "x": 61.7158,
+        "funding_probability": 0.21668
+      },
+      {
+        "x": 62.5226,
+        "funding_probability": 0.21878
+      },
+      {
+        "x": 63.3294,
+        "funding_probability": 0.22424
+      },
+      {
+        "x": 64.1362,
+        "funding_probability": 0.23015
+      },
+      {
+        "x": 64.9429,
+        "funding_probability": 0.23264
+      },
+      {
+        "x": 65.7497,
+        "funding_probability": 0.23753
+      },
+      {
+        "x": 66.5565,
+        "funding_probability": 0.24267
+      },
+      {
+        "x": 67.3633,
+        "funding_probability": 0.24555
+      },
+      {
+        "x": 68.1701,
+        "funding_probability": 0.25085
+      },
+      {
+        "x": 68.9768,
+        "funding_probability": 0.25309
+      },
+      {
+        "x": 69.7836,
+        "funding_probability": 0.25575
+      },
+      {
+        "x": 70.5904,
+        "funding_probability": 0.26164
+      },
+      {
+        "x": 71.3972,
+        "funding_probability": 0.26764
+      },
+      {
+        "x": 72.2039,
+        "funding_probability": 0.27029
+      },
+      {
+        "x": 73.0107,
+        "funding_probability": 0.27385
+      },
+      {
+        "x": 73.8175,
+        "funding_probability": 0.282
+      },
+      {
+        "x": 74.6243,
+        "funding_probability": 0.29102
+      },
+      {
+        "x": 75.4311,
+        "funding_probability": 0.29567
+      },
+      {
+        "x": 76.2378,
+        "funding_probability": 0.30098
+      },
+      {
+        "x": 77.0446,
+        "funding_probability": 0.30638
+      },
+      {
+        "x": 77.8514,
+        "funding_probability": 0.30915
+      },
+      {
+        "x": 78.6582,
+        "funding_probability": 0.31118
+      },
+      {
+        "x": 79.465,
+        "funding_probability": 0.31282
+      },
+      {
+        "x": 80.2717,
+        "funding_probability": 0.3187
+      },
+      {
+        "x": 81.0785,
+        "funding_probability": 0.32284
+      },
+      {
+        "x": 81.8853,
+        "funding_probability": 0.34176
+      },
+      {
+        "x": 82.6921,
+        "funding_probability": 0.35125
+      },
+      {
+        "x": 83.4989,
+        "funding_probability": 0.35449
+      },
+      {
+        "x": 84.3056,
+        "funding_probability": 0.35786
+      },
+      {
+        "x": 85.1124,
+        "funding_probability": 0.36222
+      },
+      {
+        "x": 85.9192,
+        "funding_probability": 0.36626
+      },
+      {
+        "x": 86.726,
+        "funding_probability": 0.36778
+      },
+      {
+        "x": 87.5328,
+        "funding_probability": 0.36969
+      },
+      {
+        "x": 88.3395,
+        "funding_probability": 0.37083
+      },
+      {
+        "x": 89.1463,
+        "funding_probability": 0.37009
+      },
+      {
+        "x": 89.9531,
+        "funding_probability": 0.37243
+      },
+      {
+        "x": 90.7599,
+        "funding_probability": 0.37885
+      },
+      {
+        "x": 91.5667,
+        "funding_probability": 0.37998
+      },
+      {
+        "x": 92.3734,
+        "funding_probability": 0.39768
+      },
+      {
+        "x": 93.1802,
+        "funding_probability": 0.39768
+      },
+      {
+        "x": 93.987,
+        "funding_probability": 0.4122
+      }
+    ]
+  },
+  "budget_reasonableness": {
+    "feature_label_zh": "经费合理性",
+    "kind": "numeric",
+    "points": [
+      {
+        "x": 54.468,
+        "funding_probability": 0.22469
+      },
+      {
+        "x": 55.1404,
+        "funding_probability": 0.22966
+      },
+      {
+        "x": 55.8128,
+        "funding_probability": 0.23139
+      },
+      {
+        "x": 56.4853,
+        "funding_probability": 0.23889
+      },
+      {
+        "x": 57.1577,
+        "funding_probability": 0.24025
+      },
+      {
+        "x": 57.8301,
+        "funding_probability": 0.24179
+      },
+      {
+        "x": 58.5025,
+        "funding_probability": 0.24336
+      },
+      {
+        "x": 59.175,
+        "funding_probability": 0.24329
+      },
+      {
+        "x": 59.8474,
+        "funding_probability": 0.24432
+      },
+      {
+        "x": 60.5198,
+        "funding_probability": 0.24509
+      },
+      {
+        "x": 61.1922,
+        "funding_probability": 0.24572
+      },
+      {
+        "x": 61.8647,
+        "funding_probability": 0.24489
+      },
+      {
+        "x": 62.5371,
+        "funding_probability": 0.24476
+      },
+      {
+        "x": 63.2095,
+        "funding_probability": 0.24524
+      },
+      {
+        "x": 63.8819,
+        "funding_probability": 0.24634
+      },
+      {
+        "x": 64.5544,
+        "funding_probability": 0.24719
+      },
+      {
+        "x": 65.2268,
+        "funding_probability": 0.24837
+      },
+      {
+        "x": 65.8992,
+        "funding_probability": 0.24904
+      },
+      {
+        "x": 66.5716,
+        "funding_probability": 0.24996
+      },
+      {
+        "x": 67.2441,
+        "funding_probability": 0.25214
+      },
+      {
+        "x": 67.9165,
+        "funding_probability": 0.25365
+      },
+      {
+        "x": 68.5889,
+        "funding_probability": 0.25374
+      },
+      {
+        "x": 69.2613,
+        "funding_probability": 0.25405
+      },
+      {
+        "x": 69.9337,
+        "funding_probability": 0.25545
+      },
+      {
+        "x": 70.6062,
+        "funding_probability": 0.25656
+      },
+      {
+        "x": 71.2786,
+        "funding_probability": 0.25817
+      },
+      {
+        "x": 71.951,
+        "funding_probability": 0.25951
+      },
+      {
+        "x": 72.6234,
+        "funding_probability": 0.25989
+      },
+      {
+        "x": 73.2959,
+        "funding_probability": 0.26121
+      },
+      {
+        "x": 73.9683,
+        "funding_probability": 0.26293
+      },
+      {
+        "x": 74.6407,
+        "funding_probability": 0.26453
+      },
+      {
+        "x": 75.3131,
+        "funding_probability": 0.26544
+      },
+      {
+        "x": 75.9856,
+        "funding_probability": 0.2673
+      },
+      {
+        "x": 76.658,
+        "funding_probability": 0.26924
+      },
+      {
+        "x": 77.3304,
+        "funding_probability": 0.27122
+      },
+      {
+        "x": 78.0028,
+        "funding_probability": 0.27835
+      },
+      {
+        "x": 78.6753,
+        "funding_probability": 0.27911
+      },
+      {
+        "x": 79.3477,
+        "funding_probability": 0.2802
+      },
+      {
+        "x": 80.0201,
+        "funding_probability": 0.28094
+      },
+      {
+        "x": 80.6925,
+        "funding_probability": 0.28186
+      },
+      {
+        "x": 81.3649,
+        "funding_probability": 0.28277
+      },
+      {
+        "x": 82.0374,
+        "funding_probability": 0.28323
+      },
+      {
+        "x": 82.7098,
+        "funding_probability": 0.28334
+      },
+      {
+        "x": 83.3822,
+        "funding_probability": 0.28344
+      },
+      {
+        "x": 84.0546,
+        "funding_probability": 0.28378
+      },
+      {
+        "x": 84.7271,
+        "funding_probability": 0.28459
+      },
+      {
+        "x": 85.3995,
+        "funding_probability": 0.28453
+      },
+      {
+        "x": 86.0719,
+        "funding_probability": 0.28449
+      },
+      {
+        "x": 86.7443,
+        "funding_probability": 0.28413
+      },
+      {
+        "x": 87.4168,
+        "funding_probability": 0.28429
+      },
+      {
+        "x": 88.0892,
+        "funding_probability": 0.27749
+      },
+      {
+        "x": 88.7616,
+        "funding_probability": 0.27766
+      },
+      {
+        "x": 89.434,
+        "funding_probability": 0.2678
+      },
+      {
+        "x": 90.1065,
+        "funding_probability": 0.26696
+      },
+      {
+        "x": 90.7789,
+        "funding_probability": 0.2666
+      },
+      {
+        "x": 91.4513,
+        "funding_probability": 0.26609
+      },
+      {
+        "x": 92.1237,
+        "funding_probability": 0.26609
+      },
+      {
+        "x": 92.7962,
+        "funding_probability": 0.26691
+      },
+      {
+        "x": 93.4686,
+        "funding_probability": 0.26875
+      },
+      {
+        "x": 94.141,
+        "funding_probability": 0.26875
+      }
+    ]
+  },
+  "project_risk": {
+    "feature_label_zh": "项目风险",
+    "kind": "numeric",
+    "points": [
+      {
+        "x": 19.222,
+        "funding_probability": 0.34472
+      },
+      {
+        "x": 20.3308,
+        "funding_probability": 0.34337
+      },
+      {
+        "x": 21.4396,
+        "funding_probability": 0.34199
+      },
+      {
+        "x": 22.5484,
+        "funding_probability": 0.34199
+      },
+      {
+        "x": 23.6573,
+        "funding_probability": 0.34165
+      },
+      {
+        "x": 24.7661,
+        "funding_probability": 0.34093
+      },
+      {
+        "x": 25.8749,
+        "funding_probability": 0.34038
+      },
+      {
+        "x": 26.9837,
+        "funding_probability": 0.3399
+      },
+      {
+        "x": 28.0925,
+        "funding_probability": 0.3392
+      },
+      {
+        "x": 29.2013,
+        "funding_probability": 0.33865
+      },
+      {
+        "x": 30.3101,
+        "funding_probability": 0.33697
+      },
+      {
+        "x": 31.4189,
+        "funding_probability": 0.3359
+      },
+      {
+        "x": 32.5278,
+        "funding_probability": 0.33258
+      },
+      {
+        "x": 33.6366,
+        "funding_probability": 0.33139
+      },
+      {
+        "x": 34.7454,
+        "funding_probability": 0.32886
+      },
+      {
+        "x": 35.8542,
+        "funding_probability": 0.3286
+      },
+      {
+        "x": 36.963,
+        "funding_probability": 0.32452
+      },
+      {
+        "x": 38.0718,
+        "funding_probability": 0.32065
+      },
+      {
+        "x": 39.1806,
+        "funding_probability": 0.31908
+      },
+      {
+        "x": 40.2895,
+        "funding_probability": 0.31716
+      },
+      {
+        "x": 41.3983,
+        "funding_probability": 0.31341
+      },
+      {
+        "x": 42.5071,
+        "funding_probability": 0.31127
+      },
+      {
+        "x": 43.6159,
+        "funding_probability": 0.30819
+      },
+      {
+        "x": 44.7247,
+        "funding_probability": 0.30604
+      },
+      {
+        "x": 45.8335,
+        "funding_probability": 0.29234
+      },
+      {
+        "x": 46.9423,
+        "funding_probability": 0.2821
+      },
+      {
+        "x": 48.0512,
+        "funding_probability": 0.27718
+      },
+      {
+        "x": 49.16,
+        "funding_probability": 0.27362
+      },
+      {
+        "x": 50.2688,
+        "funding_probability": 0.26864
+      },
+      {
+        "x": 51.3776,
+        "funding_probability": 0.26424
+      },
+      {
+        "x": 52.4864,
+        "funding_probability": 0.26088
+      },
+      {
+        "x": 53.5952,
+        "funding_probability": 0.2461
+      },
+      {
+        "x": 54.704,
+        "funding_probability": 0.24258
+      },
+      {
+        "x": 55.8128,
+        "funding_probability": 0.23935
+      },
+      {
+        "x": 56.9217,
+        "funding_probability": 0.23506
+      },
+      {
+        "x": 58.0305,
+        "funding_probability": 0.22897
+      },
+      {
+        "x": 59.1393,
+        "funding_probability": 0.22657
+      },
+      {
+        "x": 60.2481,
+        "funding_probability": 0.22425
+      },
+      {
+        "x": 61.3569,
+        "funding_probability": 0.22111
+      },
+      {
+        "x": 62.4657,
+        "funding_probability": 0.21065
+      },
+      {
+        "x": 63.5745,
+        "funding_probability": 0.20977
+      },
+      {
+        "x": 64.6834,
+        "funding_probability": 0.20801
+      },
+      {
+        "x": 65.7922,
+        "funding_probability": 0.20531
+      },
+      {
+        "x": 66.901,
+        "funding_probability": 0.20257
+      },
+      {
+        "x": 68.0098,
+        "funding_probability": 0.19787
+      },
+      {
+        "x": 69.1186,
+        "funding_probability": 0.18507
+      },
+      {
+        "x": 70.2274,
+        "funding_probability": 0.18175
+      },
+      {
+        "x": 71.3362,
+        "funding_probability": 0.17305
+      },
+      {
+        "x": 72.4451,
+        "funding_probability": 0.17161
+      },
+      {
+        "x": 73.5539,
+        "funding_probability": 0.15699
+      },
+      {
+        "x": 74.6627,
+        "funding_probability": 0.15486
+      },
+      {
+        "x": 75.7715,
+        "funding_probability": 0.15406
+      },
+      {
+        "x": 76.8803,
+        "funding_probability": 0.15102
+      },
+      {
+        "x": 77.9891,
+        "funding_probability": 0.15003
+      },
+      {
+        "x": 79.0979,
+        "funding_probability": 0.14796
+      },
+      {
+        "x": 80.2067,
+        "funding_probability": 0.14699
+      },
+      {
+        "x": 81.3156,
+        "funding_probability": 0.14467
+      },
+      {
+        "x": 82.4244,
+        "funding_probability": 0.14267
+      },
+      {
+        "x": 83.5332,
+        "funding_probability": 0.14205
+      },
+      {
+        "x": 84.642,
+        "funding_probability": 0.14117
+      }
+    ]
+  },
+  "research_years": {
+    "feature_label_zh": "研究年限",
+    "kind": "numeric",
+    "points": [
+      {
+        "x": 1.0,
+        "funding_probability": 0.247
+      },
+      {
+        "x": 1.4746,
+        "funding_probability": 0.247
+      },
+      {
+        "x": 1.9492,
+        "funding_probability": 0.24693
+      },
+      {
+        "x": 2.4237,
+        "funding_probability": 0.24693
+      },
+      {
+        "x": 2.8983,
+        "funding_probability": 0.24961
+      },
+      {
+        "x": 3.3729,
+        "funding_probability": 0.24961
+      },
+      {
+        "x": 3.8475,
+        "funding_probability": 0.25085
+      },
+      {
+        "x": 4.322,
+        "funding_probability": 0.25085
+      },
+      {
+        "x": 4.7966,
+        "funding_probability": 0.25417
+      },
+      {
+        "x": 5.2712,
+        "funding_probability": 0.25417
+      },
+      {
+        "x": 5.7458,
+        "funding_probability": 0.25667
+      },
+      {
+        "x": 6.2203,
+        "funding_probability": 0.25667
+      },
+      {
+        "x": 6.6949,
+        "funding_probability": 0.26001
+      },
+      {
+        "x": 7.1695,
+        "funding_probability": 0.26001
+      },
+      {
+        "x": 7.6441,
+        "funding_probability": 0.26293
+      },
+      {
+        "x": 8.1186,
+        "funding_probability": 0.26293
+      },
+      {
+        "x": 8.5932,
+        "funding_probability": 0.26488
+      },
+      {
+        "x": 9.0678,
+        "funding_probability": 0.26488
+      },
+      {
+        "x": 9.5424,
+        "funding_probability": 0.26666
+      },
+      {
+        "x": 10.0169,
+        "funding_probability": 0.26666
+      },
+      {
+        "x": 10.4915,
+        "funding_probability": 0.26666
+      },
+      {
+        "x": 10.9661,
+        "funding_probability": 0.26773
+      },
+      {
+        "x": 11.4407,
+        "funding_probability": 0.26773
+      },
+      {
+        "x": 11.9153,
+        "funding_probability": 0.26887
+      },
+      {
+        "x": 12.3898,
+        "funding_probability": 0.26887
+      },
+      {
+        "x": 12.8644,
+        "funding_probability": 0.26893
+      },
+      {
+        "x": 13.339,
+        "funding_probability": 0.26893
+      },
+      {
+        "x": 13.8136,
+        "funding_probability": 0.26841
+      },
+      {
+        "x": 14.2881,
+        "funding_probability": 0.26841
+      },
+      {
+        "x": 14.7627,
+        "funding_probability": 0.2691
+      },
+      {
+        "x": 15.2373,
+        "funding_probability": 0.2691
+      },
+      {
+        "x": 15.7119,
+        "funding_probability": 0.26673
+      },
+      {
+        "x": 16.1864,
+        "funding_probability": 0.26673
+      },
+      {
+        "x": 16.661,
+        "funding_probability": 0.26485
+      },
+      {
+        "x": 17.1356,
+        "funding_probability": 0.26485
+      },
+      {
+        "x": 17.6102,
+        "funding_probability": 0.26243
+      },
+      {
+        "x": 18.0847,
+        "funding_probability": 0.26243
+      },
+      {
+        "x": 18.5593,
+        "funding_probability": 0.26026
+      },
+      {
+        "x": 19.0339,
+        "funding_probability": 0.26026
+      },
+      {
+        "x": 19.5085,
+        "funding_probability": 0.25949
+      },
+      {
+        "x": 19.9831,
+        "funding_probability": 0.25949
+      },
+      {
+        "x": 20.4576,
+        "funding_probability": 0.25949
+      },
+      {
+        "x": 20.9322,
+        "funding_probability": 0.25759
+      },
+      {
+        "x": 21.4068,
+        "funding_probability": 0.25759
+      },
+      {
+        "x": 21.8814,
+        "funding_probability": 0.25491
+      },
+      {
+        "x": 22.3559,
+        "funding_probability": 0.25491
+      },
+      {
+        "x": 22.8305,
+        "funding_probability": 0.25111
+      },
+      {
+        "x": 23.3051,
+        "funding_probability": 0.25111
+      },
+      {
+        "x": 23.7797,
+        "funding_probability": 0.24776
+      },
+      {
+        "x": 24.2542,
+        "funding_probability": 0.24776
+      },
+      {
+        "x": 24.7288,
+        "funding_probability": 0.24516
+      },
+      {
+        "x": 25.2034,
+        "funding_probability": 0.24516
+      },
+      {
+        "x": 25.678,
+        "funding_probability": 0.24344
+      },
+      {
+        "x": 26.1525,
+        "funding_probability": 0.24344
+      },
+      {
+        "x": 26.6271,
+        "funding_probability": 0.23958
+      },
+      {
+        "x": 27.1017,
+        "funding_probability": 0.23958
+      },
+      {
+        "x": 27.5763,
+        "funding_probability": 0.23554
+      },
+      {
+        "x": 28.0508,
+        "funding_probability": 0.23554
+      },
+      {
+        "x": 28.5254,
+        "funding_probability": 0.23202
+      },
+      {
+        "x": 29.0,
+        "funding_probability": 0.23202
+      }
+    ]
+  },
+  "interdisciplinarity": {
+    "feature_label_zh": "跨学科程度",
+    "kind": "numeric",
+    "points": [
+      {
+        "x": 23.015,
+        "funding_probability": 0.10203
+      },
+      {
+        "x": 24.1161,
+        "funding_probability": 0.10938
+      },
+      {
+        "x": 25.2172,
+        "funding_probability": 0.11024
+      },
+      {
+        "x": 26.3184,
+        "funding_probability": 0.1162
+      },
+      {
+        "x": 27.4195,
+        "funding_probability": 0.1171
+      },
+      {
+        "x": 28.5206,
+        "funding_probability": 0.12085
+      },
+      {
+        "x": 29.6217,
+        "funding_probability": 0.12325
+      },
+      {
+        "x": 30.7228,
+        "funding_probability": 0.15216
+      },
+      {
+        "x": 31.8239,
+        "funding_probability": 0.15523
+      },
+      {
+        "x": 32.9251,
+        "funding_probability": 0.16051
+      },
+      {
+        "x": 34.0262,
+        "funding_probability": 0.17517
+      },
+      {
+        "x": 35.1273,
+        "funding_probability": 0.18389
+      },
+      {
+        "x": 36.2284,
+        "funding_probability": 0.18739
+      },
+      {
+        "x": 37.3295,
+        "funding_probability": 0.19257
+      },
+      {
+        "x": 38.4307,
+        "funding_probability": 0.19651
+      },
+      {
+        "x": 39.5318,
+        "funding_probability": 0.19717
+      },
+      {
+        "x": 40.6329,
+        "funding_probability": 0.19907
+      },
+      {
+        "x": 41.734,
+        "funding_probability": 0.2011
+      },
+      {
+        "x": 42.8351,
+        "funding_probability": 0.20362
+      },
+      {
+        "x": 43.9363,
+        "funding_probability": 0.21186
+      },
+      {
+        "x": 45.0374,
+        "funding_probability": 0.22075
+      },
+      {
+        "x": 46.1385,
+        "funding_probability": 0.22559
+      },
+      {
+        "x": 47.2396,
+        "funding_probability": 0.22785
+      },
+      {
+        "x": 48.3407,
+        "funding_probability": 0.22903
+      },
+      {
+        "x": 49.4418,
+        "funding_probability": 0.23131
+      },
+      {
+        "x": 50.543,
+        "funding_probability": 0.23369
+      },
+      {
+        "x": 51.6441,
+        "funding_probability": 0.23603
+      },
+      {
+        "x": 52.7452,
+        "funding_probability": 0.23712
+      },
+      {
+        "x": 53.8463,
+        "funding_probability": 0.24147
+      },
+      {
+        "x": 54.9474,
+        "funding_probability": 0.25057
+      },
+      {
+        "x": 56.0486,
+        "funding_probability": 0.26362
+      },
+      {
+        "x": 57.1497,
+        "funding_probability": 0.27084
+      },
+      {
+        "x": 58.2508,
+        "funding_probability": 0.27445
+      },
+      {
+        "x": 59.3519,
+        "funding_probability": 0.27756
+      },
+      {
+        "x": 60.453,
+        "funding_probability": 0.28267
+      },
+      {
+        "x": 61.5542,
+        "funding_probability": 0.28942
+      },
+      {
+        "x": 62.6553,
+        "funding_probability": 0.29315
+      },
+      {
+        "x": 63.7564,
+        "funding_probability": 0.29626
+      },
+      {
+        "x": 64.8575,
+        "funding_probability": 0.29684
+      },
+      {
+        "x": 65.9586,
+        "funding_probability": 0.29975
+      },
+      {
+        "x": 67.0597,
+        "funding_probability": 0.30137
+      },
+      {
+        "x": 68.1609,
+        "funding_probability": 0.30353
+      },
+      {
+        "x": 69.262,
+        "funding_probability": 0.30668
+      },
+      {
+        "x": 70.3631,
+        "funding_probability": 0.30952
+      },
+      {
+        "x": 71.4642,
+        "funding_probability": 0.32055
+      },
+      {
+        "x": 72.5653,
+        "funding_probability": 0.3242
+      },
+      {
+        "x": 73.6665,
+        "funding_probability": 0.32806
+      },
+      {
+        "x": 74.7676,
+        "funding_probability": 0.33333
+      },
+      {
+        "x": 75.8687,
+        "funding_probability": 0.33723
+      },
+      {
+        "x": 76.9698,
+        "funding_probability": 0.341
+      },
+      {
+        "x": 78.0709,
+        "funding_probability": 0.35645
+      },
+      {
+        "x": 79.1721,
+        "funding_probability": 0.35914
+      },
+      {
+        "x": 80.2732,
+        "funding_probability": 0.36709
+      },
+      {
+        "x": 81.3743,
+        "funding_probability": 0.39657
+      },
+      {
+        "x": 82.4754,
+        "funding_probability": 0.44272
+      },
+      {
+        "x": 83.5765,
+        "funding_probability": 0.4542
+      },
+      {
+        "x": 84.6776,
+        "funding_probability": 0.46615
+      },
+      {
+        "x": 85.7788,
+        "funding_probability": 0.52807
+      },
+      {
+        "x": 86.8799,
+        "funding_probability": 0.52807
+      },
+      {
+        "x": 87.981,
+        "funding_probability": 0.52968
+      }
+    ]
+  },
+  "institution_tier": {
+    "feature_label_zh": "单位层次",
+    "kind": "categorical",
+    "points": [
+      {
+        "x": "双一流/国家级平台",
+        "funding_probability": 0.31683
+      },
+      {
+        "x": "普通高校/机构",
+        "funding_probability": 0.26293
+      },
+      {
+        "x": "省部级重点单位",
+        "funding_probability": 0.28644
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+﻿public_data_source,public_field,simulated_feature,mapping_logic
+OpenAlex Works,"cited_by_count, fwci, citation_normalized_percentile","citations_5y, expected_impact",引用量、领域加权引用影响和引用分位数可作为科研影响力的现实代理变量。
+OpenAlex Works,"authorships, institution_count, country_count","team_size, collaboration_strength",作者数量、机构数量和国家数量反映团队规模与合作网络强度。
+OpenAlex Works,"primary_topic, topic_field, topic_domain","discipline, frontier_score, interdisciplinarity",主题、领域和跨领域主题可支撑学科类别、前沿度和跨学科程度的构造。
+OpenAlex Works,"referenced_works_count, related_works_count","methodology_score, feasibility_score",参考文献和相关工作数量可间接反映研究基础、方法依据和可行性支撑。
+OpenAlex Works,"open_access.is_oa, has_abstract filter",data_availability,开放获取和摘要可得性反映科研成果或项目材料的信息可获得程度。
+OpenAlex Works,"awards, funders","funded, prior_grants",资助奖项和资助方信息可作为已获资助背景的现实参照，但公开数据缺少未获资助申请，不能直接替代监督学习标签。

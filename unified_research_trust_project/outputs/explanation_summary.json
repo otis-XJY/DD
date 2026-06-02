@@ -1,0 +1,86 @@
+{
+  "global_top_5": [
+    {
+      "term": "novelty_score",
+      "features": [
+        "novelty_score"
+      ],
+      "feature_labels_zh": [
+        "创新性评分"
+      ],
+      "importance": 0.329289
+    },
+    {
+      "term": "project_risk",
+      "features": [
+        "project_risk"
+      ],
+      "feature_labels_zh": [
+        "项目风险"
+      ],
+      "importance": 0.320214
+    },
+    {
+      "term": "methodology_score",
+      "features": [
+        "methodology_score"
+      ],
+      "feature_labels_zh": [
+        "方法成熟度"
+      ],
+      "importance": 0.308265
+    },
+    {
+      "term": "interdisciplinarity",
+      "features": [
+        "interdisciplinarity"
+      ],
+      "feature_labels_zh": [
+        "跨学科程度"
+      ],
+      "importance": 0.307728
+    },
+    {
+      "term": "feasibility_score",
+      "features": [
+        "feasibility_score"
+      ],
+      "feature_labels_zh": [
+        "可行性评分"
+      ],
+      "importance": 0.262203
+    }
+  ],
+  "group_importance": [
+    {
+      "group": "project_quality",
+      "importance": 2.210087,
+      "share": 0.535
+    },
+    {
+      "group": "team_condition",
+      "importance": 0.800401,
+      "share": 0.1938
+    },
+    {
+      "group": "applicant_profile",
+      "importance": 0.683173,
+      "share": 0.1654
+    },
+    {
+      "group": "cross_group_interaction",
+      "importance": 0.401794,
+      "share": 0.0973
+    },
+    {
+      "group": "domain_context",
+      "importance": 0.035519,
+      "share": 0.0086
+    }
+  ],
+  "routing_counts": {
+    "regular_review": 612,
+    "expert_review": 485,
+    "fast_track": 403
+  }
+}

@@ -1,0 +1,318 @@
+[
+  {
+    "term": "novelty_score",
+    "features": [
+      "novelty_score"
+    ],
+    "feature_labels_zh": [
+      "创新性评分"
+    ],
+    "importance": 0.329289
+  },
+  {
+    "term": "project_risk",
+    "features": [
+      "project_risk"
+    ],
+    "feature_labels_zh": [
+      "项目风险"
+    ],
+    "importance": 0.320214
+  },
+  {
+    "term": "methodology_score",
+    "features": [
+      "methodology_score"
+    ],
+    "feature_labels_zh": [
+      "方法成熟度"
+    ],
+    "importance": 0.308265
+  },
+  {
+    "term": "interdisciplinarity",
+    "features": [
+      "interdisciplinarity"
+    ],
+    "feature_labels_zh": [
+      "跨学科程度"
+    ],
+    "importance": 0.307728
+  },
+  {
+    "term": "feasibility_score",
+    "features": [
+      "feasibility_score"
+    ],
+    "feature_labels_zh": [
+      "可行性评分"
+    ],
+    "importance": 0.262203
+  },
+  {
+    "term": "frontier_score",
+    "features": [
+      "frontier_score"
+    ],
+    "feature_labels_zh": [
+      "前沿度评分"
+    ],
+    "importance": 0.26011
+  },
+  {
+    "term": "expected_impact",
+    "features": [
+      "expected_impact"
+    ],
+    "feature_labels_zh": [
+      "预期影响力"
+    ],
+    "importance": 0.21813
+  },
+  {
+    "term": "collaboration_strength",
+    "features": [
+      "collaboration_strength"
+    ],
+    "feature_labels_zh": [
+      "合作网络强度"
+    ],
+    "importance": 0.172369
+  },
+  {
+    "term": "platform_support",
+    "features": [
+      "platform_support"
+    ],
+    "feature_labels_zh": [
+      "平台支撑水平"
+    ],
+    "importance": 0.141629
+  },
+  {
+    "term": "prior_grants",
+    "features": [
+      "prior_grants"
+    ],
+    "feature_labels_zh": [
+      "既往项目数"
+    ],
+    "importance": 0.124901
+  },
+  {
+    "term": "age_group",
+    "features": [
+      "age_group"
+    ],
+    "feature_labels_zh": [
+      "年龄阶段"
+    ],
+    "importance": 0.097553
+  },
+  {
+    "term": "expected_impact & collaboration_strength",
+    "features": [
+      "expected_impact",
+      "collaboration_strength"
+    ],
+    "feature_labels_zh": [
+      "预期影响力",
+      "合作网络强度"
+    ],
+    "importance": 0.094758
+  },
+  {
+    "term": "citations_5y",
+    "features": [
+      "citations_5y"
+    ],
+    "feature_labels_zh": [
+      "近五年引用数"
+    ],
+    "importance": 0.088277
+  },
+  {
+    "term": "budget_reasonableness",
+    "features": [
+      "budget_reasonableness"
+    ],
+    "feature_labels_zh": [
+      "经费合理性"
+    ],
+    "importance": 0.086879
+  },
+  {
+    "term": "data_availability",
+    "features": [
+      "data_availability"
+    ],
+    "feature_labels_zh": [
+      "数据可得性"
+    ],
+    "importance": 0.085045
+  },
+  {
+    "term": "institution_tier",
+    "features": [
+      "institution_tier"
+    ],
+    "feature_labels_zh": [
+      "单位层次"
+    ],
+    "importance": 0.084275
+  },
+  {
+    "term": "research_years",
+    "features": [
+      "research_years"
+    ],
+    "feature_labels_zh": [
+      "研究年限"
+    ],
+    "importance": 0.074937
+  },
+  {
+    "term": "h_index",
+    "features": [
+      "h_index"
+    ],
+    "feature_labels_zh": [
+      "H-index"
+    ],
+    "importance": 0.073145
+  },
+  {
+    "term": "feasibility_score & interdisciplinarity",
+    "features": [
+      "feasibility_score",
+      "interdisciplinarity"
+    ],
+    "feature_labels_zh": [
+      "可行性评分",
+      "跨学科程度"
+    ],
+    "importance": 0.069423
+  },
+  {
+    "term": "citations_5y & ethics_compliance",
+    "features": [
+      "citations_5y",
+      "ethics_compliance"
+    ],
+    "feature_labels_zh": [
+      "近五年引用数",
+      "伦理合规性"
+    ],
+    "importance": 0.066653
+  },
+  {
+    "term": "prior_grants & data_availability",
+    "features": [
+      "prior_grants",
+      "data_availability"
+    ],
+    "feature_labels_zh": [
+      "既往项目数",
+      "数据可得性"
+    ],
+    "importance": 0.062404
+  },
+  {
+    "term": "data_availability & interdisciplinarity",
+    "features": [
+      "data_availability",
+      "interdisciplinarity"
+    ],
+    "feature_labels_zh": [
+      "数据可得性",
+      "跨学科程度"
+    ],
+    "importance": 0.055381
+  },
+  {
+    "term": "novelty_score & data_availability",
+    "features": [
+      "novelty_score",
+      "data_availability"
+    ],
+    "feature_labels_zh": [
+      "创新性评分",
+      "数据可得性"
+    ],
+    "importance": 0.054632
+  },
+  {
+    "term": "frontier_score & interdisciplinarity",
+    "features": [
+      "frontier_score",
+      "interdisciplinarity"
+    ],
+    "feature_labels_zh": [
+      "前沿度评分",
+      "跨学科程度"
+    ],
+    "importance": 0.053175
+  },
+  {
+    "term": "novelty_score & frontier_score",
+    "features": [
+      "novelty_score",
+      "frontier_score"
+    ],
+    "feature_labels_zh": [
+      "创新性评分",
+      "前沿度评分"
+    ],
+    "importance": 0.052744
+  },
+  {
+    "term": "team_size",
+    "features": [
+      "team_size"
+    ],
+    "feature_labels_zh": [
+      "团队规模"
+    ],
+    "importance": 0.042307
+  },
+  {
+    "term": "papers_5y",
+    "features": [
+      "papers_5y"
+    ],
+    "feature_labels_zh": [
+      "近五年论文数"
+    ],
+    "importance": 0.04159
+  },
+  {
+    "term": "discipline",
+    "features": [
+      "discipline"
+    ],
+    "feature_labels_zh": [
+      "学科类别"
+    ],
+    "importance": 0.035519
+  },
+  {
+    "term": "overseas_experience",
+    "features": [
+      "overseas_experience"
+    ],
+    "feature_labels_zh": [
+      "海外经历"
+    ],
+    "importance": 0.033967
+  },
+  {
+    "term": "ethics_compliance",
+    "features": [
+      "ethics_compliance"
+    ],
+    "feature_labels_zh": [
+      "伦理合规性"
+    ],
+    "importance": 0.031679
+  }
+]

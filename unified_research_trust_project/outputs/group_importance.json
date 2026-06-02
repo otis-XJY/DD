@@ -1,0 +1,27 @@
+[
+  {
+    "group": "project_quality",
+    "importance": 2.210087,
+    "share": 0.535
+  },
+  {
+    "group": "team_condition",
+    "importance": 0.800401,
+    "share": 0.1938
+  },
+  {
+    "group": "applicant_profile",
+    "importance": 0.683173,
+    "share": 0.1654
+  },
+  {
+    "group": "cross_group_interaction",
+    "importance": 0.401794,
+    "share": 0.0973
+  },
+  {
+    "group": "domain_context",
+    "importance": 0.035519,
+    "share": 0.0086
+  }
+]

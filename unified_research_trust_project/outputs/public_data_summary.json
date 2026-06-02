@@ -1,0 +1,30 @@
+{
+  "source": "OpenAlex Works API",
+  "api_url": "https://api.openalex.org/works",
+  "rows_downloaded": 80,
+  "time_scope": "from 2021-01-01",
+  "query": "artificial intelligence scientific discovery research funding",
+  "columns": [
+    "openalex_id",
+    "title",
+    "publication_year",
+    "cited_by_count",
+    "fwci",
+    "citation_percentile",
+    "is_oa",
+    "authorship_count",
+    "institution_count",
+    "country_count",
+    "referenced_works_count",
+    "related_works_count",
+    "primary_topic",
+    "topic_field",
+    "topic_domain",
+    "award_count",
+    "funder_count",
+    "funders",
+    "doi"
+  ],
+  "mapping_rows": 6,
+  "important_limitation": "OpenAlex provides real scholarly metadata and funding references, but it does not provide rejected grant applications, expert scores, or final review decisions. Therefore it is used as feature-design evidence rather than as the main supervised training dataset."
+}

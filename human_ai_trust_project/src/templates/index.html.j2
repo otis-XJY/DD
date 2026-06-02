@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>人机协同科研信任机制可视化项目</title>
+    <link rel="stylesheet" href="../src/static/css/style.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-inner">
+            <p class="eyebrow">Human-AI Research Trust</p>
+            <h1>人机协同科研信任机制可视化项目</h1>
+            <p class="subtitle">本研究围绕科研评审与科研决策中的人机协同信任机制展开，采用可解释机器学习、公开数据样本与研究图示相结合的方式，呈现模型透明度、证据链可追溯性与人类判断采纳之间的关系。</p>
+            <div class="hero-metrics">
+                <div class="metric-card">
+                    <span>研究样本量</span>
+                    <strong>{{ summary.dataset_overview.samples }}</strong>
+                </div>
+                <div class="metric-card">
+                    <span>ROC AUC</span>
+                    <strong>{{ summary.metrics.roc_auc }}</strong>
+                </div>
+                <div class="metric-card">
+                    <span>Accuracy</span>
+                    <strong>{{ summary.metrics.accuracy }}</strong>
+                </div>
+                <div class="metric-card">
+                    <span>研究图示数</span>
+                    <strong>8</strong>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="panel two-col">
+            <div>
+                <h2>研究设计</h2>
+                <ul>
+                    <li>研究对象：科研评审与科研资助决策中的人机协同判断过程。</li>
+                    <li>研究方法：采用 Explainable Boosting Machine（EBM）构建可解释决策模型。</li>
+                    <li>研究材料：引入公开数据样本、官方解释图示与统计结果表进行综合展示。</li>
+                    <li>研究目标：分析模型可解释性、证据可追溯性与任务风险如何影响信任校准。</li>
+                </ul>
+            </div>
+            <div>
+                <h2>研究框架</h2>
+                <ol>
+                    <li>输入层：公开样本数据与关键决策特征。</li>
+                    <li>模型层：基于 EBM 的玻璃盒分类模型。</li>
+                    <li>解释层：包括全局解释、局部解释与交互式仪表板。</li>
+                    <li>协同层：将模型解释结果映射到科研信任、建议采纳与责任判断。</li>
+                </ol>
+            </div>
+        </section>
+
+        <section class="panel">
+            <h2>研究图示一：EBM 全局解释</h2>
+            <p class="img-caption">该图展示模型在整体层面学习到的关键特征贡献结构，可用于分析研究者在面对 AI 建议时形成认知信任的依据。</p>
+            <img class="research-image" src="../src/static/ebm_global.png" alt="EBM 全局解释图">
+        </section>
+
+        <section class="panel">
+            <h2>研究图示二：EBM 局部解释</h2>
+            <p class="img-caption">该图展示单个样本预测的局部证据链，有助于说明在具体科研决策情境下，人类如何依据解释信息形成或修正对模型的信任。</p>
+            <img class="research-image" src="../src/static/ebm_local.png" alt="EBM 局部解释图">
+        </section>
+
+        <section class="panel">
+            <h2>研究图示三：解释仪表板</h2>
+            <p class="img-caption">该图展示交互式解释界面在模型审查、结果比较与证据查看中的作用，体现了人机协同中的透明交互机制。</p>
+            <img class="research-image" src="../src/static/dashboard.png" alt="InterpretML 仪表板图">
+        </section>
+
+        <section class="panel">
+            <h2>研究统计可视化</h2>
+            <p class="img-caption">以下图表分别展示了关键特征的重要性排序、信任与解释变量之间的关系、不同风险水平下的决策差异、学科维度的信任画像，以及模型对关键变量变化的响应趋势。</p>
+            <div class="html-grid">
+                <article class="html-card">
+                    <h3>特征重要性图</h3>
+                    <iframe src="../figure/feature_importance.html" title="特征重要性图"></iframe>
+                </article>
+                <article class="html-card">
+                    <h3>信任关系散点图</h3>
+                    <iframe src="../figure/trust_scatter.html" title="信任关系散点图"></iframe>
+                </article>
+                <article class="html-card">
+                    <h3>任务风险箱线图</h3>
+                    <iframe src="../figure/risk_box.html" title="任务风险箱线图"></iframe>
+                </article>
+                <article class="html-card">
+                    <h3>学科雷达图</h3>
+                    <iframe src="../figure/discipline_radar.html" title="学科雷达图"></iframe>
+                </article>
+                <article class="html-card full-span">
+                    <h3>关键特征响应曲线</h3>
+                    <iframe src="../figure/shape_curve.html" title="关键特征响应曲线"></iframe>
+                </article>
+            </div>
+        </section>
+
+        <section class="panel">
+            <h2>研究统计结果表</h2>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>指标</th>
+                            <th>数值</th>
+                            <th>研究含义</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>样本量</td>
+                            <td>{{ summary.dataset_overview.samples }}</td>
+                            <td>用于支撑可解释决策模型的基础样本规模。</td>
+                        </tr>
+                        <tr>
+                            <td>模型准确率</td>
+                            <td>{{ summary.metrics.accuracy }}</td>
+                            <td>反映模型在决策任务中的整体判断表现。</td>
+                        </tr>
+                        <tr>
+                            <td>ROC AUC</td>
+                            <td>{{ summary.metrics.roc_auc }}</td>
+                            <td>反映模型的区分能力，是形成技术可信度的重要基础。</td>
+                        </tr>
+                        <tr>
+                            <td>最高重要性特征</td>
+                            <td>{{ summary.top_features[0].feature }}</td>
+                            <td>说明模型最依赖的判断依据，有助于解释信任形成机制。</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="panel">
+            <h2>关键解释特征表</h2>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>特征名</th>
+                            <th>重要性</th>
+                            <th>研究解释</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for item in summary.top_features[:5] %}
+                        <tr>
+                            <td>{{ item.feature }}</td>
+                            <td>{{ item.importance }}</td>
+                            <td>该特征反映模型解释中的关键影响因素，可用于讨论人类对 AI 建议的理解与采纳。</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="panel">
+            <h2>项目结构说明</h2>
+            <div class="code-block">
+<pre>human_ai_trust_project/
+├── data/
+│   ├── adult_uci_raw.data
+│   └── adult_income_openml.csv
+├── figure/
+│   ├── feature_importance.html
+│   ├── trust_scatter.html
+│   ├── risk_box.html
+│   ├── discipline_radar.html
+│   └── shape_curve.html
+├── outputs/
+│   ├── feature_importance.csv
+│   ├── shape_functions.csv
+│   └── model_summary.json
+├── src/
+│   ├── train_model.py
+│   ├── app.py
+│   ├── static/
+│   │   ├── ebm_global.png
+│   │   ├── ebm_local.png
+│   │   ├── dashboard.png
+│   │   └── css/style.css
+│   └── templates/index.html.j2
+├── web/
+│   └── index.html
+└── README.md</pre>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

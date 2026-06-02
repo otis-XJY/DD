@@ -1,0 +1,17 @@
+﻿feature,importance
+org_norm_clarity,1.0615
+trust_score,1.0567
+task_risk,1.0512
+budget_rationality,1.0455
+evidence_traceability,1.0431
+prior_output,1.038
+ai_literacy,1.0291
+ai_recommendation,1.0286
+academic_reputation,1.02
+explainability,1.0186
+human_review_score,1.0141
+team_diversity,1.0029
+proposal_innovation,0.6199
+ai_recommendation & trust_score,0.4872
+human_review_score & trust_score,0.4785
+human_review_score & ai_recommendation,0.4753

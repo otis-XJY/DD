@@ -1,0 +1,30 @@
+{
+  "data_rows": 1500,
+  "train_rows": 1125,
+  "test_rows": 375,
+  "positive_rate": 0.2553,
+  "models": [
+    {
+      "model": "Logistic Regression transparent linear baseline",
+      "accuracy": 0.7067,
+      "auc": 0.7997,
+      "brier_score": 0.181,
+      "log_loss": 0.5346
+    },
+    {
+      "model": "Explainable Boosting Machine",
+      "accuracy": 0.7813,
+      "auc": 0.761,
+      "brier_score": 0.1554,
+      "log_loss": 0.4755
+    },
+    {
+      "model": "Random Forest black-box baseline",
+      "accuracy": 0.7653,
+      "auc": 0.782,
+      "brier_score": 0.1593,
+      "log_loss": 0.4884
+    }
+  ],
+  "interpretation_note": "Logistic Regression is used as a transparent linear baseline, Random Forest as a black-box predictive baseline, and EBM as the main model because it provides nonlinear global term importance, local additive contributions, and feature response curves for trust calibration."
+}

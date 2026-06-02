@@ -1,0 +1,604 @@
+{
+  "project_theme": "人机协同科研信任机制",
+  "model": "ExplainableBoostingClassifier (EBM)",
+  "metrics": {
+    "accuracy": 0.8889,
+    "roc_auc": 1.0,
+    "train_size": 21,
+    "test_size": 9
+  },
+  "top_features": [
+    {
+      "feature": "org_norm_clarity",
+      "importance": 1.0615
+    },
+    {
+      "feature": "trust_score",
+      "importance": 1.0567
+    },
+    {
+      "feature": "task_risk",
+      "importance": 1.0512
+    },
+    {
+      "feature": "budget_rationality",
+      "importance": 1.0455
+    },
+    {
+      "feature": "evidence_traceability",
+      "importance": 1.0431
+    },
+    {
+      "feature": "prior_output",
+      "importance": 1.038
+    },
+    {
+      "feature": "ai_literacy",
+      "importance": 1.0291
+    },
+    {
+      "feature": "ai_recommendation",
+      "importance": 1.0286
+    }
+  ],
+  "shape_functions": [
+    {
+      "feature": "prior_output",
+      "points": [
+        {
+          "x": 55.0,
+          "y": -1.6105
+        },
+        {
+          "x": 55.5,
+          "y": -1.5748
+        },
+        {
+          "x": 58.0,
+          "y": -1.5089
+        },
+        {
+          "x": 60.5,
+          "y": -1.456
+        },
+        {
+          "x": 62.5,
+          "y": -1.3769
+        },
+        {
+          "x": 65.0,
+          "y": -1.2598
+        },
+        {
+          "x": 67.0,
+          "y": -1.1391
+        },
+        {
+          "x": 68.5,
+          "y": -0.9732
+        },
+        {
+          "x": 70.0,
+          "y": 0.3657
+        },
+        {
+          "x": 72.0,
+          "y": 0.495
+        },
+        {
+          "x": 74.5,
+          "y": 0.5691
+        },
+        {
+          "x": 77.0,
+          "y": 0.6422
+        },
+        {
+          "x": 78.5,
+          "y": 0.6995
+        },
+        {
+          "x": 80.0,
+          "y": 0.7786
+        },
+        {
+          "x": 81.5,
+          "y": 0.852
+        },
+        {
+          "x": 83.0,
+          "y": 0.9211
+        },
+        {
+          "x": 85.0,
+          "y": 0.9948
+        },
+        {
+          "x": 87.0,
+          "y": 1.057
+        },
+        {
+          "x": 88.5,
+          "y": 1.1213
+        },
+        {
+          "x": 90.5,
+          "y": 1.1721
+        },
+        {
+          "x": 93.5,
+          "y": 1.2308
+        }
+      ]
+    },
+    {
+      "feature": "academic_reputation",
+      "points": [
+        {
+          "x": 54.0,
+          "y": -1.6149
+        },
+        {
+          "x": 55.5,
+          "y": -1.544
+        },
+        {
+          "x": 57.5,
+          "y": -1.472
+        },
+        {
+          "x": 58.5,
+          "y": -1.3999
+        },
+        {
+          "x": 60.5,
+          "y": -1.322
+        },
+        {
+          "x": 63.0,
+          "y": -1.2278
+        },
+        {
+          "x": 65.0,
+          "y": -1.1585
+        },
+        {
+          "x": 66.5,
+          "y": -0.9707
+        },
+        {
+          "x": 69.0,
+          "y": 0.3634
+        },
+        {
+          "x": 72.0,
+          "y": 0.4677
+        },
+        {
+          "x": 73.5,
+          "y": 0.5532
+        },
+        {
+          "x": 76.5,
+          "y": 0.6182
+        },
+        {
+          "x": 79.5,
+          "y": 0.6975
+        },
+        {
+          "x": 80.5,
+          "y": 0.7849
+        },
+        {
+          "x": 81.5,
+          "y": 0.861
+        },
+        {
+          "x": 82.5,
+          "y": 0.9142
+        },
+        {
+          "x": 84.0,
+          "y": 0.9665
+        },
+        {
+          "x": 85.5,
+          "y": 1.0304
+        },
+        {
+          "x": 87.5,
+          "y": 1.088
+        },
+        {
+          "x": 89.5,
+          "y": 1.1523
+        },
+        {
+          "x": 91.5,
+          "y": 1.2123
+        }
+      ]
+    },
+    {
+      "feature": "team_diversity",
+      "points": [
+        {
+          "x": 62.0,
+          "y": -1.5521
+        },
+        {
+          "x": 63.5,
+          "y": -1.4855
+        },
+        {
+          "x": 66.5,
+          "y": -1.411
+        },
+        {
+          "x": 68.5,
+          "y": -1.3261
+        },
+        {
+          "x": 69.5,
+          "y": -1.2455
+        },
+        {
+          "x": 70.5,
+          "y": -1.1325
+        },
+        {
+          "x": 71.5,
+          "y": 0.2521
+        },
+        {
+          "x": 72.5,
+          "y": 0.4152
+        },
+        {
+          "x": 73.5,
+          "y": 0.5246
+        },
+        {
+          "x": 74.5,
+          "y": 0.5992
+        },
+        {
+          "x": 75.5,
+          "y": 0.6708
+        },
+        {
+          "x": 76.5,
+          "y": 0.744
+        },
+        {
+          "x": 77.5,
+          "y": 0.8363
+        },
+        {
+          "x": 79.0,
+          "y": 0.8963
+        },
+        {
+          "x": 80.5,
+          "y": 0.9789
+        },
+        {
+          "x": 82.0,
+          "y": 1.0474
+        },
+        {
+          "x": 83.5,
+          "y": 1.1179
+        },
+        {
+          "x": 85.0,
+          "y": 1.1933
+        },
+        {
+          "x": 87.0,
+          "y": 1.2548
+        }
+      ]
+    },
+    {
+      "feature": "proposal_innovation",
+      "points": [
+        {
+          "x": 57.0,
+          "y": -1.1193
+        },
+        {
+          "x": 58.5,
+          "y": -1.0699
+        },
+        {
+          "x": 61.5,
+          "y": -0.9935
+        },
+        {
+          "x": 64.0,
+          "y": -0.9255
+        },
+        {
+          "x": 66.5,
+          "y": -0.8464
+        },
+        {
+          "x": 70.0,
+          "y": -0.7537
+        },
+        {
+          "x": 72.5,
+          "y": -0.6407
+        },
+        {
+          "x": 73.5,
+          "y": -0.1208
+        },
+        {
+          "x": 74.5,
+          "y": -0.0397
+        },
+        {
+          "x": 75.5,
+          "y": 0.1366
+        },
+        {
+          "x": 78.0,
+          "y": 0.2341
+        },
+        {
+          "x": 80.5,
+          "y": 0.3129
+        },
+        {
+          "x": 81.5,
+          "y": 0.3924
+        },
+        {
+          "x": 82.5,
+          "y": 0.4726
+        },
+        {
+          "x": 83.5,
+          "y": 0.5418
+        },
+        {
+          "x": 85.5,
+          "y": 0.6124
+        },
+        {
+          "x": 88.5,
+          "y": 0.6771
+        },
+        {
+          "x": 90.5,
+          "y": 0.7483
+        },
+        {
+          "x": 92.0,
+          "y": 0.8191
+        },
+        {
+          "x": 93.5,
+          "y": 0.885
+        }
+      ]
+    },
+    {
+      "feature": "budget_rationality",
+      "points": [
+        {
+          "x": 60.0,
+          "y": -1.6642
+        },
+        {
+          "x": 61.0,
+          "y": -1.5995
+        },
+        {
+          "x": 62.5,
+          "y": -1.5444
+        },
+        {
+          "x": 63.5,
+          "y": -1.455
+        },
+        {
+          "x": 64.5,
+          "y": -1.3648
+        },
+        {
+          "x": 65.5,
+          "y": -1.2694
+        },
+        {
+          "x": 66.5,
+          "y": -1.1493
+        },
+        {
+          "x": 69.5,
+          "y": -0.9306
+        },
+        {
+          "x": 73.0,
+          "y": 0.4468
+        },
+        {
+          "x": 75.5,
+          "y": 0.5736
+        },
+        {
+          "x": 77.5,
+          "y": 0.6651
+        },
+        {
+          "x": 78.5,
+          "y": 0.748
+        },
+        {
+          "x": 79.5,
+          "y": 0.808
+        },
+        {
+          "x": 80.5,
+          "y": 0.8798
+        },
+        {
+          "x": 81.5,
+          "y": 0.9455
+        },
+        {
+          "x": 83.0,
+          "y": 1.0088
+        },
+        {
+          "x": 85.5,
+          "y": 1.0694
+        },
+        {
+          "x": 88.0,
+          "y": 1.1467
+        },
+        {
+          "x": 89.5,
+          "y": 1.2125
+        }
+      ]
+    }
+  ],
+  "case_analysis": {
+    "high_confidence_cases": [
+      {
+        "project_id": "P015",
+        "discipline": "AI",
+        "predicted_probability": 1.0,
+        "trust_score": 0.97,
+        "evidence_traceability": 96,
+        "explainability": 95,
+        "task_risk": 0.28,
+        "funding_decision": 1
+      },
+      {
+        "project_id": "P027",
+        "discipline": "ComputerScience",
+        "predicted_probability": 1.0,
+        "trust_score": 0.98,
+        "evidence_traceability": 94,
+        "explainability": 94,
+        "task_risk": 0.3,
+        "funding_decision": 1
+      },
+      {
+        "project_id": "P008",
+        "discipline": "ComputerScience",
+        "predicted_probability": 1.0,
+        "trust_score": 0.95,
+        "evidence_traceability": 90,
+        "explainability": 93,
+        "task_risk": 0.33,
+        "funding_decision": 1
+      },
+      {
+        "project_id": "P004",
+        "discipline": "Medicine",
+        "predicted_probability": 1.0,
+        "trust_score": 0.93,
+        "evidence_traceability": 94,
+        "explainability": 92,
+        "task_risk": 0.36,
+        "funding_decision": 1
+      },
+      {
+        "project_id": "P020",
+        "discipline": "DataScience",
+        "predicted_probability": 1.0,
+        "trust_score": 0.94,
+        "evidence_traceability": 92,
+        "explainability": 90,
+        "task_risk": 0.31,
+        "funding_decision": 1
+      },
+      {
+        "project_id": "P023",
+        "discipline": "AI",
+        "predicted_probability": 1.0,
+        "trust_score": 0.92,
+        "evidence_traceability": 89,
+        "explainability": 91,
+        "task_risk": 0.35,
+        "funding_decision": 1
+      }
+    ],
+    "low_confidence_cases": [
+      {
+        "project_id": "P026",
+        "discipline": "Agriculture",
+        "predicted_probability": 0.0,
+        "trust_score": 0.45,
+        "evidence_traceability": 55,
+        "explainability": 56,
+        "task_risk": 0.69,
+        "funding_decision": 0
+      },
+      {
+        "project_id": "P017",
+        "discipline": "Chemistry",
+        "predicted_probability": 0.0,
+        "trust_score": 0.44,
+        "evidence_traceability": 56,
+        "explainability": 58,
+        "task_risk": 0.73,
+        "funding_decision": 0
+      },
+      {
+        "project_id": "P019",
+        "discipline": "Humanities",
+        "predicted_probability": 0.0,
+        "trust_score": 0.47,
+        "evidence_traceability": 54,
+        "explainability": 57,
+        "task_risk": 0.68,
+        "funding_decision": 0
+      },
+      {
+        "project_id": "P003",
+        "discipline": "Physics",
+        "predicted_probability": 0.0,
+        "trust_score": 0.46,
+        "evidence_traceability": 55,
+        "explainability": 58,
+        "task_risk": 0.77,
+        "funding_decision": 0
+      },
+      {
+        "project_id": "P005",
+        "discipline": "Education",
+        "predicted_probability": 0.0,
+        "trust_score": 0.53,
+        "evidence_traceability": 58,
+        "explainability": 61,
+        "task_risk": 0.64,
+        "funding_decision": 0
+      },
+      {
+        "project_id": "P012",
+        "discipline": "Medicine",
+        "predicted_probability": 0.0,
+        "trust_score": 0.49,
+        "evidence_traceability": 57,
+        "explainability": 60,
+        "task_risk": 0.71,
+        "funding_decision": 0
+      }
+    ]
+  },
+  "dataset_overview": {
+    "samples": 30,
+    "funded_ratio": 0.6,
+    "avg_trust_score": 0.729,
+    "avg_explainability": 74.8,
+    "avg_task_risk": 0.5073
+  }
+}

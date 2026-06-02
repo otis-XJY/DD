@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+interpret-core
+scikit-learn
+jinja2
+flask
+openpyxl
