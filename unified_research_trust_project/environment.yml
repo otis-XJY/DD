@@ -1,4 +1,6 @@
-name: trust_xai
+# Conda environment for unified_research_trust_project
+# Usage: conda env create -f environment.yml && conda activate unified_research_trust
+name: unified_research_trust
 channels:
   - conda-forge
   - defaults

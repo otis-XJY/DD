@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+.env
+.conda/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Trained models (regenerate via src/train_models.py)
+models/*.joblib
+!models/.gitkeep
+
+# Large or regenerated artifacts (keep tracked samples in data/ if needed)
+# Uncomment to ignore all outputs:
+# outputs/
+
+# OS
+.DS_Store
+Thumbs.db

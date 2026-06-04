@@ -1,10 +1,20 @@
-pandas>=2.1
+# unified_research_trust_project — Python 3.11+
+# Install: pip install -r requirements.txt
+
+# --- Core data & numerics ---
+pandas>=2.1,<3
 numpy>=1.26,<2.0
-scikit-learn>=1.4
-plotly>=5.20
-streamlit>=1.35
-interpret>=0.6
+
+# --- Machine learning ---
+scikit-learn>=1.4,<2
+interpret>=0.6.0
 joblib>=1.3
-openpyxl>=3.1
+
+# --- Visualization & interactive app ---
+plotly>=5.20,<6
+streamlit>=1.35,<2
+
+# --- CLI, HTTP, tabular I/O ---
 click>=8.1
 requests>=2.31
+openpyxl>=3.1
