@@ -104,3 +104,16 @@ FEATURE_LABELS_ZH = {
     "platform_support": "平台支撑水平",
     "discipline": "学科类别",
 }
+
+NSFC_SUBJECT_CODES = [
+    "A01", "C01", "C05", "C06", "E01", "F01", "G01", "H01",
+]
+
+INSTITUTION_TIERS = {
+    "C9": "顶尖",
+    "985": "一流",
+    "211": "重点",
+    "双一流/国家级平台": "一流",
+    "省部级重点单位": "重点",
+    "普通高校/机构": "普通",
+}
